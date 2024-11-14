@@ -1,1 +1,3 @@
-Hola, me llamo Jordi!
+Hola, me llamo Jordi! 
+
+Estoy estudiando python
